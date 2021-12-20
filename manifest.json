@@ -1,12 +1,12 @@
 {
-  "name": "Cirkle",
-  "short_name": "Cirkle",
-  "description": "Cirkle",
+  "name": "Cirkl",
+  "short_name": "Cirkl",
+  "description": "Cirkl",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "/",
-  "start_url": "/cirkle/",
+  "start_url": "/cirkl/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
