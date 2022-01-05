@@ -3,13 +3,13 @@
     "static/js/0.1c019242.chunk.js": "/admin-app-public/static/js/0.1c019242.chunk.js",
     "static/js/0.1c019242.chunk.js.map": "/admin-app-public/static/js/0.1c019242.chunk.js.map",
     "main.css": "/admin-app-public/static/css/main.d4226aac.chunk.css",
-    "main.js": "/admin-app-public/static/js/main.39ce44e8.chunk.js",
-    "main.js.map": "/admin-app-public/static/js/main.39ce44e8.chunk.js.map",
+    "main.js": "/admin-app-public/static/js/main.37e5faad.chunk.js",
+    "main.js.map": "/admin-app-public/static/js/main.37e5faad.chunk.js.map",
     "runtime-main.js": "/admin-app-public/static/js/runtime-main.ad7be74e.js",
     "runtime-main.js.map": "/admin-app-public/static/js/runtime-main.ad7be74e.js.map",
     "static/css/3.90935b8e.chunk.css": "/admin-app-public/static/css/3.90935b8e.chunk.css",
-    "static/js/3.922f6e3d.chunk.js": "/admin-app-public/static/js/3.922f6e3d.chunk.js",
-    "static/js/3.922f6e3d.chunk.js.map": "/admin-app-public/static/js/3.922f6e3d.chunk.js.map",
+    "static/js/3.54417593.chunk.js": "/admin-app-public/static/js/3.54417593.chunk.js",
+    "static/js/3.54417593.chunk.js.map": "/admin-app-public/static/js/3.54417593.chunk.js.map",
     "static/js/4.0773605a.chunk.js": "/admin-app-public/static/js/4.0773605a.chunk.js",
     "static/js/4.0773605a.chunk.js.map": "/admin-app-public/static/js/4.0773605a.chunk.js.map",
     "static/js/5.96c2d828.chunk.js": "/admin-app-public/static/js/5.96c2d828.chunk.js",
@@ -40,15 +40,15 @@
     "static/js/10.f46658be.chunk.js.LICENSE.txt": "/admin-app-public/static/js/10.f46658be.chunk.js.LICENSE.txt",
     "static/js/11.79352a5e.chunk.js.LICENSE.txt": "/admin-app-public/static/js/11.79352a5e.chunk.js.LICENSE.txt",
     "static/js/13.4a828caa.chunk.js.LICENSE.txt": "/admin-app-public/static/js/13.4a828caa.chunk.js.LICENSE.txt",
-    "static/js/3.922f6e3d.chunk.js.LICENSE.txt": "/admin-app-public/static/js/3.922f6e3d.chunk.js.LICENSE.txt",
+    "static/js/3.54417593.chunk.js.LICENSE.txt": "/admin-app-public/static/js/3.54417593.chunk.js.LICENSE.txt",
     "static/js/6.473371b5.chunk.js.LICENSE.txt": "/admin-app-public/static/js/6.473371b5.chunk.js.LICENSE.txt",
     "static/js/9.1c4a81cf.chunk.js.LICENSE.txt": "/admin-app-public/static/js/9.1c4a81cf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ad7be74e.js",
     "static/css/3.90935b8e.chunk.css",
-    "static/js/3.922f6e3d.chunk.js",
+    "static/js/3.54417593.chunk.js",
     "static/css/main.d4226aac.chunk.css",
-    "static/js/main.39ce44e8.chunk.js"
+    "static/js/main.37e5faad.chunk.js"
   ]
 }
