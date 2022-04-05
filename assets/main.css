@@ -88,3 +88,23 @@ body {
         box-shadow: 0 0 0 0 rgba(230, 237, 219, 0);
     }
 }
+
+/* ion grid with cards */
+ion-grid ion-card {
+    height: 100%;
+}
+
+ion-grid ion-card-header {
+    display: flex;
+    height: 100%;
+    flex-flow: column nowrap;
+}
+
+ion-grid ion-card-header ion-icon {
+    width: 100%;
+    font-size: 80px;
+}
+
+ion-grid ion-card-subtitle {
+    margin-top: auto;
+}
